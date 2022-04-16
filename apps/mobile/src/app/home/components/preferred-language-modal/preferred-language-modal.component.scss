@@ -1,0 +1,21 @@
+ion-content {
+  &::part(scroll) {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+ion-icon[name='language'] {
+  width: 100px;
+  height: 100px;
+  color: gray;
+}
+
+.titles-container {
+  display: flex;
+  flex-direction: column;
+
+  .title {
+    font-weight: bold;
+    padding-bottom: 1rem;
+  }
+}

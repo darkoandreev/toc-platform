@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Bus - Jeremić DOO",
+    "description": "medjugradska linija Dimitrovgrad - Pirot",
+    "contactPhone": "+381607060411",
+    "image": ""
+  },
+  {
+    "title": "Bus - Maxa tours",
+
+    "description": "gradski I prigaradski saobracaj",
+    "image": "/assets/images/transport/maxa_tours.jpg"
+  },
+  {
+    "title": "Bus - Presto Doo",
+    "description": "Linija Dimitrovgrad – Beograd – Dimitrovgrad svakog dana iz: Beograda u 11:15, 14:30, 17:30 i 19:00 (samo petkom). Dimitrovgrada u 03:00 i veza ka Pirotu u 15:45 Kontak telefon +381 (11) 3471 775 i Biletara Pirot 010/324-794 sajt presto.rs",
+    "image": ""
+  },
+  {
+    "title": "Bus - Lustro prevoz (kombi)",
+    "description": "Prevoz putnika u zemlji i inostranstvu",
+    "email": "lustroprevoz@gmail.com",
+    "image": "/assets/images/transport/lustro_prevoz.jpg"
+  },
+  {
+    "title": "Taksi - Kole",
+    "description": "Radnim danima i vikendom. Moguće i zakazivanje unapred. ",
+    "contactPhone": "+381642516000",
+    "image": "/assets/images/transport/kole_taxi.jpg"
+  },
+  {
+    "title": "Taksi - Šljava",
+    "description": "Radnim danima i vikendom. Moguće i zakazivanje unapred. ",
+    "contactPhone": "+381677050343",
+    "image": "/assets/images/transport/sljava_taxi.jpg"
+  },
+  {
+    "title": "Taksi - Slavko",
+    "description": "Radnim danima i vikendom. Moguće i zakazivanje unapred. ",
+    "contactPhone": "+38163409580",
+    "image": "/assets/images/transport/slavko_taxi.jpg"
+  },
+  {
+    "title": "Taksi - Adi",
+    "description": "Radnim danima i vikendom. Moguće i zakazivanje unapred. ",
+    "contactPhone": "+381695453466"
+  },
+  {
+    "title": "Železnička stanica Dimitrovgrad  Balkanska  bb",
+    "description": "Železnička stanica Dimitrovgrad je poslednja železnička stanica na pruzi Niš—Dimitrovgrad. Železnička stanica Dimitrovgrad se sastoji iz 12 koloseka. Stanica se nalazi u blizi bugarske granice. Trenutno se na toj stanici obavlja samo teretni saobraćaj.",
+    "contactPhone": "+38110363775",
+    "image": ""
+  }
+]

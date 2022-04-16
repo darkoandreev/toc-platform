@@ -1,0 +1,32 @@
+{
+  "TITLE": "Туристическа организация Димитровград",
+  "FILTER_ITEMS": {
+    "ACCOMODATION": "Престой",
+    "ATTRACTIONS": "Атракции",
+    "RESTAURANTS": "Ресторанти",
+    "TRANSPORTATION": "Транспорт",
+    "LOOKOUTS": "Изгледи",
+    "CAFES": "Кафе",
+    "RECREATION": "Отдих",
+    "CULTURE": "Култура",
+    "PROTECTED_NATURAL_ASSETS": "Забележителности",
+    "EVENTS": "Събития"
+  },
+  "LANGUAGE_ITEMS": {
+    "ENGLISH": "Английски",
+    "SERBIAN": "Сръбски",
+    "BULGARIAN": "Български"
+  },
+  "PREFERRED_LANGUAGE_MODAL": {
+    "SAVE_BUTTON": "Запази",
+    "CHOOSE_LANGUAGE_TEXT": "Изберете предпочитания от вас език",
+    "SELECT_LANGUAGE_TEXT": "Моля изберете език",
+    "CLOSE": "Затвори"
+  },
+  "SETTINGS": {
+    "TITLE": "Настройки",
+    "ITEMS": {
+      "CHOOSE_LANGUAGE": "Изберете език"
+    }
+  }
+}

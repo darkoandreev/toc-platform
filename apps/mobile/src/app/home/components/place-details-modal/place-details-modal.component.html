@@ -1,0 +1,61 @@
+<ion-header class="ion-no-border" [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button (click)="modalController.dismiss()">
+        Back
+        <ion-icon slot="start" name="chevron-back-outline"></ion-icon>
+      </ion-button>
+      <ion-button (click)="navigate()">
+        Navigate
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [scrollEvents]="true" (ionScroll)="onScroll()" [class.no-transform]="addNoTransformClass">
+  <h1>{{ cityPlace.title }}</h1>
+
+  <ion-grid>
+    <ion-row>
+      <ion-col class="detail-item-col">
+        <ion-row>
+          <ion-icon name="star-outline"></ion-icon>
+        </ion-row>
+        <ion-row>
+          <ion-title>4.8</ion-title>
+        </ion-row>
+        <ion-row>
+          <ion-title class="item-name">Rating</ion-title>
+        </ion-row>
+      </ion-col>
+      <ion-col class="detail-item-col">
+        <ion-row>
+          <ion-icon name="car-outline"></ion-icon>
+        </ion-row>
+        <ion-row>
+          <ion-title>4 km</ion-title>
+        </ion-row>
+        <ion-row>
+          <ion-title class="item-name">Distance</ion-title>
+        </ion-row>
+      </ion-col>
+      <ion-col class="detail-item-col">
+        <ion-row>
+          <ion-icon name="time-outline"></ion-icon>
+        </ion-row>
+        <ion-row>
+          <ion-title>40 min</ion-title>
+        </ion-row>
+        <ion-row>
+          <ion-title class="item-name">Time</ion-title>
+        </ion-row>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+  <div class="information-container">
+    <ion-text>
+      {{ cityPlace.description }}
+    </ion-text>
+  </div>
+</ion-content>

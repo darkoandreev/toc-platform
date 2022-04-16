@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Otvoreni bazeni",
+    "description": "Kupališni kompleks čine dva otvorena bazena, sa pratećim sadržajem. Veliki bazen (dimenzija 25x12,5m) dubine 1,80 m , mali bazen (dimenzije 12,5x6m) dubine 0,8m. Nalaze se na jednoj od najlepših lokacija u Dimitrovgradu, okruženi velikim parkom, sportkim terenima i šetalištem. Bazeni su za korisnike otvoreni tokom kupališne sezone.",
+    "image": "/assets/images/recreation/bazeni.jpeg"
+  },
+  {
+    "title": "Teniski tereni",
+    "description": "Dva teniska terena površine 1600 m2 sa akrilnom podlogom koji se nalaze se na jugoistočnoj strani sportskog centra. Tereni spadaju u srednje brze podloge i obezbeđuju savršeno kretanje i odbijanje loptice. Podloga je otporna na temperaturne razlike i mogu se koristiti kada to vremenski uslovi dozvoljavaju.",
+    "image": "/assets/images/recreation/teniski_tereni.jpeg"
+  },
+  {
+    "title": "Teren za mali fudbal",
+    "description": "Rukometno igralište, dimenzije 41*22 m, sa podlogom od reciklirane gume idealan za pripreme sportskih ekipa, odigravanje rukometnih utakmica i utakmica za mali fudbal kao i za rekreativne aktivnosti i obuke.",
+    "image": "/assets/images/recreation/tereni.jpeg"
+  },
+  {
+    "title": "Sportska hala",
+    "description": "Sportska hala sa poslovno sportskim aneksom je multi funkcionalni objekat sa preko 7500 m2 korisne površine, namenjena za sve vrste indor sportove : košarku, odbojku, rukomet, mali fudbal. Teleskopske tribine, koševi sa fibinim sertifikatom , po svim evropskim standardima namenjena je za organizaciju mnogobrojnih takmičenja, priprema ekipa, obuka,koncerata. Severna strana hale poseduje 985 sedišta a u prizemnom delu se nalazi sala za individualne sportove prostorije za streljaštvo.",
+    "image": "/assets/images/recreation/bazeni.jpg"
+  },
+  {
+    "title": "Teren za košarku",
+    "description": "Otvoreni teren za košarku dimenzije 32*17,5 m, sa podlogom od reciklirane gume idealan za rekreaciju i organizaciju kampova, škola košarke, turnira i utakmica.",
+    "image": "/assets/images/recreation/bazeni.jpg"
+  },
+  {
+    "title": "Teren za odbojku na pesku",
+    "description": "Teren za odbojku na pesku, dimenzija 18*9m na kome se svake godine organizuje tradicionalni turnir u odbojci na pesku. Teren je namenjen za odigravanje turnira u odbojci i za rekreaciju.",
+    "image": "/assets/images/recreation/bazeni.jpg"
+  },
+  {
+    "title": "Teren za veliki fudbal",
+    "description": "Gradski stadion sa objektom tribine je teren sa travnatom podlogom dimenzije 102*55 m. Sportski teren je namnjenjen za odigravanje prvenstvenih utakmica, priprema sportista, sprovođenja obuka, treninga fudbalskih klubova.",
+    "image": "/assets/images/recreation/bazeni.jpg"
+  },
+  {
+    "title": "Elite fitnes gym",
+    "description": "„GYM AND FITNESS CENTAR“ u aneksnom delu sportske hale vam nudi veliki izbor profesionalne fitnes opreme uključujući sprave za snagu i kardio trening. Pored vežbanja na spravama dostupne su vam i pilates, joga i aerobik vežbanja.",
+    "image": "/assets/images/recreation/gym.jpeg"
+  },
+  {
+    "title": "Sportski ribolov",
+    "description": "Sportski ribolov na jezerima Savat 1 i Savat 2. Jezera su veštačke akumulacije napravljene u rejonu Zabrđa, u kraškoj Odorovačko-smilovskoj kotlini (na oko 700 metara nadmorske visine) u blizini sela Smilovaca. Zadnjih godina su omiljena destinacija mnogih sportskih ribolovaca iz Dimitrovgrada, Pirota, Niša i drugih mesta. Jezera su bogata šaranom, tolstolobikom, štukom, somom, crvenperkom, bodorkom, američkim somićem, karašem i drugom ribom.",
+    "image": "/assets/images/recreation/sportski_ribolov.JPG"
+  },
+  {
+    "title": "Centar za hiporehabilitaciju (jahanje konja)",
+    "description": "Centar za hiporehabilitaciju osim usluga nudi i uživanje u prirodnim lepotama Stare planine. Aktivnosti Centra prvenstveno su okrenute ka rehabilitaciji dece sa smetnjama u razvoju, dece tipične populacije, kao i rad sa odraslima koji dolaze na rekreativno jahanje.",
+    "image": "/assets/images/recreation/centar_rehabilitacija.jpg"
+  },
+  {
+    "title": "Pešačke i bike staze",
+    "description": "Pešačke i bajk staze prestavljaju pravi planinski poduhvat gde se kroz rekreativne aktivnosti može uživati u lepotama planinskih predela, bogatoj flori i fauni. Staze su namenjene iskusnim planinarima, biciklistima, šetačima,sportistima i osobama sa dobrom kondicijom",
+    "image": "/assets/images/recreation/bazeni.jpg"
+  },
+  {
+    "title": "Dečija igrališta",
+    "image": "/assets/images/recreation/bazeni.jpg"
+  },
+  {
+    "title": "Dečija igraonica \"Čuvari smeha\"",
+    "description": "Dečija igraonica &quot;Čuvari smeha&quot; je prva igraonica inkluzivnog tipa u Republici Srbiji, i namenjena je deci sa smetnjama u razvoju i deci tipičnog razvoja. U igraonici se radi po inovativnim programima, koriste se inovativni materijali i organizuju kreativne radionice, koje su od velikog značaja za razvoj najmlađe populacije.",
+    "image": "/assets/images/recreation/bazeni.jpg"
+  },
+  {
+    "title": "Api inhal komora",
+    "description": "Api inhal komora namenjena je za inhalaciju vazduhom iz košnice. Aromati iz košnice koju čine matična mleč, propolis, vosak, med, perga, pčelinji otrov, polen, pčelinji otrov, blagodetno deluju na jačanje imuniteta i respiratornih kardiovaskularnih bolesti.",
+    "image": "/assets/images/recreation/inhal_komora.jpeg"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Restoran Saks - Balkan",
+    "description": "ulica Balkanska br. 18",
+    "owner": "Ivica Istatkov",
+    "contactPhone1": "+381 10 363 566",
+    "contactPhone2": "+381 10 436 626",
+    "email": "ivicaistatkov@yahoo.com",
+    "location": "Dimitrovgrad",
+    "latitude": "43.01518120865411",
+    "longitude": "22.776296675302717",
+    "image": "/assets/images/restaurants/balkan.JPG",
+    "website": "http://www.balkan.co.rs"
+  },
+  {
+    "title": "Restoran hotela Happy",
+    "description": "ulica Caribrodskih umetnika br. 1",
+    "contactPhone1": "+381 10 363 333",
+    "email": "ivicaistatkov@yahoo.com",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/accomodations/hotel_happy.jpeg",
+    "website": "http://hotelhappy.rs/"
+  },
+  {
+    "title": "Restoran \"Hepi Stars\"",
+    "description": "Autoput bb, Granični prelaz“Gradina”",
+    "contactPhone1": "+38163408597",
+    "contactPhone2": "+381643815929",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/hepi-stars.jpg"
+  },
+  {
+    "title": "Restoran \"Sunce\"",
+    "description": "Autoput bb, s. Obrenovac",
+    "contactPhone1": "+38163408597",
+    "contactPhone2": "+381643815929",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/Restoran Sunce.jpg"
+  },
+  {
+    "title": "Etno restoran \"Kapica\"",
+    "description": "Nalazi se u selu Lukavica",
+    "contactPhone1": "+38110360465",
+    "contactPhone2": "+381643122826",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/kapica.JPG"
+  },
+  {
+    "title": "Kafana \"Lukavački mlin\"",
+    "description": "Nalazi se u selu Lukavica",
+    "contactPhone1": "+381653739789",
+    "contactPhone2": "+381691235081",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/Lukavacki mlin.jpg"
+  },
+  {
+    "title": "Restoran \"Poganovski manastir\"",
+    "description": "Nalazi se u selu Poganovo",
+    "contactPhone1": "+381 63 322 34 49",
+    "contactPhone2": "+381 65 362 66 00",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/poganovski manastir.JPG"
+  },
+  {
+    "title": "Restoran \"Lili hit\"",
+    "description": "Nalazi se u selu Trnski Odorovci",
+    "contactPhone1": "+381 65 899 74 89",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/Lili hit.JPG"
+  },
+  {
+    "title": "Kafana \"Kod Žike\"",
+    "description": "Autoput bb, selo Željuša",
+    "contactPhone1": "+381 61 49 82 340",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/zika1.jpg"
+  },
+  {
+    "title": "Kafana \"Pančina kavena\"",
+    "description": "selo Radejna",
+    "contactPhone1": "",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/Pancina kavena.jpg"
+  },
+  {
+    "title": "Kafana \"Mali Caribrod\"",
+    "description": "ulica Balkanska broj 48a",
+    "contactPhone1": "+381 64 231 25 93",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/mali_caribrod.jpg"
+  },
+  {
+    "title": "Kafana \"Opančić\"",
+    "description": "selo Trnski odorovci",
+    "contactPhone1": "+381 64 81 55 757",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/Opancic.JPG"
+  },
+  {
+    "title": "Kafana \"Stari podrum\"",
+    "description": "ulica Kirilo i Metodije br. 14",
+    "contactPhone1": "+381 69 360 52 62",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/Stari podrum.jpg"
+  },
+  {
+    "title": "Picerija \"La Toscana\"",
+    "description": "ulica Balkansa broj 17",
+    "contactPhone1": "+381 10 361 527",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/restaurants/la toscana2.jpg"
+  }
+]

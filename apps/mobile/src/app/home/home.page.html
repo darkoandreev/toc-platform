@@ -1,0 +1,56 @@
+<ion-header class="ion-no-border" [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Dobrodosli!
+      <br>
+      Hajde da otkrijemo Dimitrovgrad
+    </ion-title>
+
+    <ion-buttons slot="end">
+      <ion-button (click)="openActionSheet()">
+        <ion-icon slot="icon-only" ios="ellipsis-horizontal" md="ellipsis-vertical"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-slides mode="ios" pager="true" [options]="slideOpts">
+    <ion-slide>
+      <ion-card>
+        <ion-card-content></ion-card-content>
+      </ion-card>
+    </ion-slide>
+    <ion-slide>
+      <ion-card>
+        <ion-card-content></ion-card-content>
+      </ion-card>
+    </ion-slide>
+    <ion-slide>
+      <ion-card>
+        <ion-card-content></ion-card-content>
+      </ion-card>
+    </ion-slide>
+  </ion-slides>
+  <ion-searchbar mode="ios"></ion-searchbar>
+  <toc-platform-city-places-filter (filterChange)="onFilterChange($event)" [menuItems]="menuItems"></toc-platform-city-places-filter>
+
+  <div class="city-places-container">
+    <toc-platform-city-places-list *ngIf="filterType !== FilterType.EVENTS" [cityPlaces]="cityPlaces$ | async" (selectedPlace)="onSelectedPlace($event)"></toc-platform-city-places-list>
+    <toc-events-calendar *ngIf="filterType === FilterType.EVENTS"></toc-events-calendar>
+  </div>
+</ion-content>
+
+<!-- <ion-footer mode="ios">
+  <ion-row class="ion-justify-content-center">
+    <ion-card>
+      <ion-icon name="information-circle"></ion-icon>
+    </ion-card>
+    <ion-card>
+      <ion-icon src="/assets/icon/parking.svg"></ion-icon>
+    </ion-card>
+    <ion-card>
+      <ion-icon name="call"></ion-icon>
+    </ion-card>
+  </ion-row>
+</ion-footer> -->

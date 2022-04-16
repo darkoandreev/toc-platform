@@ -1,0 +1,44 @@
+[
+  {
+    "title": "My freedom",
+    "description": "ulica Najden Kirov b, radno vreme 08-02",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/cafes/freedom.jpg"
+  },
+  {
+    "title": "Caffe bar Fiesta",
+    "description": "Radno vreme 08-24",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/cafes/Fiesta.jpg"
+  },
+  {
+    "title": "Caffe bar City si",
+    "description": "ulica Balkanska 9, radno vreme 08-23",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/cafes/Fiesta.jpg"
+  },
+  {
+    "title": "Caffe bar Vožd",
+    "description": "ulica Balkanska 57, radno vreme 07-24",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/cafes/Vozd.jpg"
+  },
+  {
+    "title": "Motel lounge bar",
+    "description": "ulica Caribrodskih umetnika br. 1",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/accomodations/hotel_happy.jpeg"
+  },
+  {
+    "title": "Poslasticara Pcela",
+    "description": "ulica Balkanska 57, radno vreme 09-21",
+    "latitude": "43.012854769765774",
+    "longitude": "22.777332662795942",
+    "image": "/assets/images/cafes/Poslasticara pcela.JPG"
+  }
+]

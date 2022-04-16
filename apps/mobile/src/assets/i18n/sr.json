@@ -1,0 +1,32 @@
+{
+  "TITLE": "Turistička organizacija Dimitrovgrad",
+  "FILTER_ITEMS": {
+    "ACCOMODATION": "Smeštaj",
+    "ATTRACTIONS": "Atrakcije",
+    "RESTAURANTS": "Restorani",
+    "TRANSPORTATION": "Prevoz",
+    "LOOKOUTS": "Vidikovci",
+    "CAFES": "Kafei",
+    "RECREATION": "Rekreacija",
+    "CULTURE": "Kultura",
+    "PROTECTED_NATURAL_ASSETS": "Zaštićena prirodna dobra",
+    "EVENTS": "Događaji"
+  },
+  "LANGUAGE_ITEMS": {
+    "ENGLISH": "Engleski",
+    "SERBIAN": "Srpski",
+    "BULGARIAN": "Bugarski"
+  },
+  "PREFERRED_LANGUAGE_MODAL": {
+    "SAVE_BUTTON": "Snimi",
+    "CHOOSE_LANGUAGE_TEXT": "Odaberite željeni jezik",
+    "SELECT_LANGUAGE_TEXT": "Molimo vas izaberite vaš jezik",
+    "CLOSE": "Zatvori"
+  },
+  "SETTINGS": {
+    "TITLE": "Podešavanja",
+    "ITEMS": {
+      "CHOOSE_LANGUAGE": "Izaberite jezik"
+    }
+  }
+}

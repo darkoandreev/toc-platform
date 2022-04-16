@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Sv. Kirik I Julita",
+    "description": "Na lokaciji manastira Sveti Kirik i Julita postavljen je atraktivan vidikovac sa fantastičnim pogledom na celu kotlinu, Smilovska jezera, odorovačko polje.",
+    "image": "/assets/images/lookouts/Manastir Sv Kirik i Julita.JPG"
+  },
+  {
+    "title": "Oštri vrh",
+    "description": "Vidikovac Oštri vrh nalazi se na 3 km od Dimitrovgrada iznad izletišta K'rnišor. Do njega postoji put i staza za pešake.",
+    "image": "/assets/images/lookouts/OstriVrh.jpg"
+  },
+  {
+    "title": "Vidlič",
+    "description": "Vidikovac Vidlič nalazi se na putu od Dimitrovgrada prema Staroj planini na visini od 1100m. Pogled sa vidikovca pruža se do Smilovskih jezera i na celo Odorovačko kraško polje. Vidikovac je opremljen drvenom platformom što pruža mogućnost za posmatranje ptica i uživanje u prirodi.",
+    "image": "/assets/images/lookouts/Vidikovac Vidlic.JPG"
+  }
+]

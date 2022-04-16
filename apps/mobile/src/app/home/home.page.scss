@@ -1,0 +1,47 @@
+ion-content {
+  &::part(background) {
+    background: #f2f2f7;
+  }
+
+  ion-slides {
+    --bullet-background: var(--ion-color-dark-tint);
+    --bullet-background-active: var(--ion-color-dark);
+    margin: 10px;
+    border-radius: 15px;
+
+    ion-card {
+      height: 200px;
+      border-radius: 15px;
+      margin: 0;
+      width: 100%;
+      --background: url('/assets/images/welcome_image.JPG') 0 0/100% 100% no-repeat;
+    }
+  }
+}
+
+ion-toolbar {
+  --background: #f2f2f7;
+}
+
+.city-places-container {
+  height: calc(100% - 325px);
+  overflow-y: scroll;
+}
+
+ion-footer {
+  ion-row {
+    gap: 1.5rem;
+
+    ion-card {
+      display: flex;
+      align-items: center;
+      height: 3rem;
+      width: 3rem;
+
+      ion-icon {
+        width: 100%;
+        height: 2rem;
+      }
+    }
+  }
+}

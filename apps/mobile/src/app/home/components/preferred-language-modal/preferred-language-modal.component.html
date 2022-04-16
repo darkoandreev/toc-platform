@@ -1,0 +1,31 @@
+<ion-header class="ion-no-border" [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button fill="clear" (click)="saveLanguage()">
+        {{ 'PREFERRED_LANGUAGE_MODAL.CLOSE' | translate }}
+      </ion-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button fill="clear" (click)="saveLanguage()">
+        {{ 'PREFERRED_LANGUAGE_MODAL.SAVE_BUTTON' | translate }}
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-icon name="language"></ion-icon>
+
+  <div class="titles-container">
+    <ion-text class="title">{{ 'PREFERRED_LANGUAGE_MODAL.CHOOSE_LANGUAGE_TEXT' | translate }}</ion-text>
+    <ion-text>{{ 'PREFERRED_LANGUAGE_MODAL.SELECT_LANGUAGE_TEXT' | translate }}</ion-text>
+  </div>
+
+  <ion-list>
+    <ion-item lines="full" [button]="true" *ngFor="let language of LANGUAGES" (click)="selectedLanguage = language.abbreviation">
+      <ion-icon slot="start" [src]="language.flag"></ion-icon>
+      {{ language.title| translate }}
+      <ion-icon *ngIf="selectedLanguage === language.abbreviation" slot="end" name="checkmark"></ion-icon>
+    </ion-item>
+  </ion-list>
+</ion-content>

@@ -1,0 +1,32 @@
+{
+  "TITLE": "Tourism organization of Caribrod",
+  "FILTER_ITEMS": {
+    "ACCOMODATION": "accomodation",
+    "ATTRACTIONS": "attractions",
+    "RESTAURANTS": "restaurants",
+    "TRANSPORTATION": "transportation",
+    "LOOKOUTS": "lookouts",
+    "CAFES": "cafes",
+    "RECREATION": "recreation",
+    "CULTURE": "culture",
+    "PROTECTED_NATURAL_ASSETS": "natural assets",
+    "EVENTS": "events"
+  },
+  "LANGUAGE_ITEMS": {
+    "ENGLISH": "English",
+    "SERBIAN": "Serbian",
+    "BULGARIAN": "Bulgarian"
+  },
+  "PREFERRED_LANGUAGE_MODAL": {
+    "SAVE_BUTTON": "Save",
+    "CHOOSE_LANGUAGE_TEXT": "Choose your preferred language",
+    "SELECT_LANGUAGE_TEXT": "Please select your language",
+    "CLOSE": "Close"
+  },
+  "SETTINGS": {
+    "TITLE": "Settings",
+    "ITEMS": {
+      "CHOOSE_LANGUAGE": "Choose language"
+    }
+  }
+}

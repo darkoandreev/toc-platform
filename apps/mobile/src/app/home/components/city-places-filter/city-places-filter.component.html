@@ -1,0 +1,4 @@
+<ion-icon name="options"></ion-icon>
+<ion-col *ngFor="let item of menuItems; let i = index">
+  <ion-badge [class.selected]="selectedIndex === i" (click)="selectedIndex = i; filterChange.emit(item.type)">{{ item.title | translate }}</ion-badge>
+</ion-col>
