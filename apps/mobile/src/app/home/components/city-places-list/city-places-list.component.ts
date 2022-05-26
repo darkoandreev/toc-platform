@@ -19,7 +19,7 @@ import { CityPlace } from '../../models/city-place.model';
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class CityPlacesListComponent implements AfterViewInit {
-  @ViewChildren(IonCard, { read: ElementRef }) ionCards!: QueryList<ElementRef>;
+  @ViewChildren(IonCard, { read: ElementRef }) ionCards!: QueryList<ElementRef<Element>>;
 
   @Input() cityPlaces!: Array<CityPlace> | null;
   @Output() selectedPlace = new EventEmitter<CityPlace>();
@@ -32,7 +32,7 @@ export class CityPlacesListComponent implements AfterViewInit {
     const animations: Array<Animation> = [];
 
     this.ionCards.changes.subscribe((cards: QueryList<ElementRef>) => {
-      cards.forEach((card: ElementRef<any>, index) => {
+      cards.forEach((card: ElementRef<Element>, index) => {
         const animation = this.animationCtrl
           .create()
           .addElement(card.nativeElement)
