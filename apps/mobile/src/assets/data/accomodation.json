@@ -31,8 +31,8 @@
     "contactPhone": "+381643895406",
     "email": "abgbgd@yahoo.com",
     "location": "Poganovo",
-    "latitude": "42.97078842605134",
-    "longitude": "22.663970915694172",
+    "latitude": "42.97031123950924",
+    "longitude": "22.663897634044357",
     "image": "/assets/images/accomodations/poganovska_sopka.jpeg"
   },
   {
@@ -43,8 +43,8 @@
     "contactPhone": "+381641941741",
     "email": "konaktosa@gmail.com",
     "location": "Poganovo",
-    "latitude": "42.971891710370585",
-    "longitude": "22.661748323859364",
+    "latitude": "42.971883860602226",
+    "longitude": "22.661726865794343",
     "image": "/assets/images/accomodations/konak_tosa.jpeg"
   },
   {
@@ -55,8 +55,8 @@
     "contactPhone": "+381604797812",
     "email": "jelenaz.antic@posted.co.es",
     "location": "Poganovo",
-    "latitude": "42.971093712918844",
-    "longitude": "22.664215020501228",
+    "latitude": "42.9711172640117",
+    "longitude": "22.664204292490417",
     "image": "/assets/images/accomodations/dundjerovi.jpeg"
   },
   {
@@ -79,8 +79,8 @@
     "contactPhone": "+381601671792",
     "email": "pancinamala@yahoo.com",
     "location": "Radejna",
-    "latitude": "43.0499377408666",
-    "longitude": "22.832461594598715",
+    "latitude": "43.05006318547278",
+    "longitude": "22.83228993172469",
     "image": "/assets/images/accomodations/pancina_kavena.jpeg"
   },
   {
@@ -91,8 +91,8 @@
     "contactPhone": "+381631034287",
     "email": "sasa21031987@gmail.com",
     "location": "Vlkovija",
-    "latitude": "43.090317719938625",
-    "longitude": "22.918569499967237",
+    "latitude": "43.089777055333236",
+    "longitude": "22.918569504453657",
     "image": "/assets/images/accomodations/etno_kuca_nikolov.jpeg"
   },
   {
@@ -103,8 +103,8 @@
     "contactPhone": "+381658997489",
     "email": "tereza.vasiljevic@gmail.com",
     "location": "Trnski Odorovci",
-    "latitude": "42.94804367533501",
-    "longitude": "22.61331392107946",
+    "latitude": "42.9480279682289",
+    "longitude": "22.613346107161053",
     "image": "/assets/images/accomodations/lili_hit.jpeg"
   },
   {
@@ -115,8 +115,8 @@
     "contactPhone": "+38166360041",
     "email": "slavicadimov@yahoo.com",
     "location": "Trnski Odorovci",
-    "latitude": "42.94804367533501",
-    "longitude": "22.61331392107946",
+    "latitude": "42.95689461469148",
+    "longitude": "22.61405057908775",
     "image": ""
   },
   {
@@ -139,8 +139,8 @@
     "contactPhone": "+38110360873",
     "email": "tocaribrod@gmail.com",
     "location": "Poganovo",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "42.96955450353407",
+    "longitude": "22.665239696986397",
     "image": "/assets/images/accomodations/planinarski_dom_poganovo.jpeg"
   }
 ]

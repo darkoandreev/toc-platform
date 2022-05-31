@@ -28,5 +28,8 @@
     "ITEMS": {
       "CHOOSE_LANGUAGE": "Choose language"
     }
+  },
+  "PLACE_DETAILS_MODAL": {
+    "TAKE_ME_THERE_BUTTON": "Take me there"
   }
 }

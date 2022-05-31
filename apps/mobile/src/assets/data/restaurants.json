@@ -36,8 +36,8 @@
     "description": "Autoput bb, s. Obrenovac",
     "contactPhone1": "+38163408597",
     "contactPhone2": "+381643815929",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.0202233826302",
+    "longitude": "22.707865905570607",
     "image": "/assets/images/restaurants/Restoran Sunce.jpg"
   },
   {
@@ -45,8 +45,8 @@
     "description": "Nalazi se u selu Lukavica",
     "contactPhone1": "+38110360465",
     "contactPhone2": "+381643122826",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "42.99705640254113",
+    "longitude": "22.772214477981603",
     "image": "/assets/images/restaurants/kapica.JPG"
   },
   {
@@ -54,8 +54,8 @@
     "description": "Nalazi se u selu Lukavica",
     "contactPhone1": "+381653739789",
     "contactPhone2": "+381691235081",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "42.9998961422273",
+    "longitude": "22.76647053603122",
     "image": "/assets/images/restaurants/Lukavacki mlin.jpg"
   },
   {
@@ -63,64 +63,64 @@
     "description": "Nalazi se u selu Poganovo",
     "contactPhone1": "+381 63 322 34 49",
     "contactPhone2": "+381 65 362 66 00",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "42.978795943566766",
+    "longitude": "22.63666492078978",
     "image": "/assets/images/restaurants/poganovski manastir.JPG"
   },
   {
     "title": "Restoran \"Lili hit\"",
     "description": "Nalazi se u selu Trnski Odorovci",
     "contactPhone1": "+381 65 899 74 89",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "42.9480279682289",
+    "longitude": "22.613346107161053",
     "image": "/assets/images/restaurants/Lili hit.JPG"
   },
   {
     "title": "Kafana \"Kod Žike\"",
     "description": "Autoput bb, selo Željuša",
     "contactPhone1": "+381 61 49 82 340",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.01587609283142",
+    "longitude": "22.732789607724612",
     "image": "/assets/images/restaurants/zika1.jpg"
   },
   {
     "title": "Kafana \"Pančina kavena\"",
     "description": "selo Radejna",
     "contactPhone1": "",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.05006318547278",
+    "longitude": "22.83228993172469",
     "image": "/assets/images/restaurants/Pancina kavena.jpg"
   },
   {
     "title": "Kafana \"Mali Caribrod\"",
     "description": "ulica Balkanska broj 48a",
     "contactPhone1": "+381 64 231 25 93",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.01439376290313",
+    "longitude": "22.773223549122157",
     "image": "/assets/images/restaurants/mali_caribrod.jpg"
   },
   {
     "title": "Kafana \"Opančić\"",
     "description": "selo Trnski odorovci",
     "contactPhone1": "+381 64 81 55 757",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "42.96613642849023",
+    "longitude": "22.622039890044487",
     "image": "/assets/images/restaurants/Opancic.JPG"
   },
   {
     "title": "Kafana \"Stari podrum\"",
     "description": "ulica Kirilo i Metodije br. 14",
     "contactPhone1": "+381 69 360 52 62",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.017682879782264",
+    "longitude": "22.7803255881173",
     "image": "/assets/images/restaurants/Stari podrum.jpg"
   },
   {
     "title": "Picerija \"La Toscana\"",
     "description": "ulica Balkansa broj 17",
     "contactPhone1": "+381 10 361 527",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.01509198238954",
+    "longitude": "22.776475753512383",
     "image": "/assets/images/restaurants/la toscana2.jpg"
   }
 ]

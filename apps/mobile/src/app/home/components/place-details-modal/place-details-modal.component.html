@@ -5,9 +5,6 @@
         Back
         <ion-icon slot="start" name="chevron-back-outline"></ion-icon>
       </ion-button>
-      <ion-button (click)="navigate()">
-        Navigate
-      </ion-button>
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
@@ -58,4 +55,8 @@
       {{ cityPlace.description }}
     </ion-text>
   </div>
+
+  <ion-button class="take-me-there-button" shape="round" (click)="navigate()">
+    {{ 'PLACE_DETAILS_MODAL.TAKE_ME_THERE_BUTTON' | translate }}
+  </ion-button>
 </ion-content>

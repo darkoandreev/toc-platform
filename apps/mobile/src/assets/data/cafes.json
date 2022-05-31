@@ -2,43 +2,43 @@
   {
     "title": "My freedom",
     "description": "ulica Najden Kirov b, radno vreme 08-02",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.01595411733643",
+    "longitude": "22.77858347532965",
     "image": "/assets/images/cafes/freedom.jpg"
   },
   {
     "title": "Caffe bar Fiesta",
     "description": "Radno vreme 08-24",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.015663526554995",
+    "longitude": "22.777276390505634",
     "image": "/assets/images/cafes/Fiesta.jpg"
   },
   {
     "title": "Caffe bar City si",
     "description": "ulica Balkanska 9, radno vreme 08-23",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.015483607814566",
+    "longitude": "22.777446939292748",
     "image": "/assets/images/cafes/Fiesta.jpg"
   },
   {
     "title": "Caffe bar Vožd",
     "description": "ulica Balkanska 57, radno vreme 07-24",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.01467925597632",
+    "longitude": "22.7744013676091",
     "image": "/assets/images/cafes/Vozd.jpg"
   },
   {
     "title": "Motel lounge bar",
     "description": "ulica Caribrodskih umetnika br. 1",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.0124022197589",
+    "longitude": "22.777214899560096",
     "image": "/assets/images/accomodations/hotel_happy.jpeg"
   },
   {
     "title": "Poslasticara Pcela",
     "description": "ulica Balkanska 57, radno vreme 09-21",
-    "latitude": "43.012854769765774",
-    "longitude": "22.777332662795942",
+    "latitude": "43.01517244333835",
+    "longitude": "22.776297381950183",
     "image": "/assets/images/cafes/Poslasticara pcela.JPG"
   }
 ]

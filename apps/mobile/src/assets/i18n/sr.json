@@ -28,5 +28,8 @@
     "ITEMS": {
       "CHOOSE_LANGUAGE": "Izaberite jezik"
     }
+  },
+  "PLACE_DETAILS_MODAL": {
+    "TAKE_ME_THERE_BUTTON": "Odvedi me tamo"
   }
 }

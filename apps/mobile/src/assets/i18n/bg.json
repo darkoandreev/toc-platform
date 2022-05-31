@@ -28,5 +28,8 @@
     "ITEMS": {
       "CHOOSE_LANGUAGE": "Изберете език"
     }
+  },
+  "PLACE_DETAILS_MODAL": {
+    "TAKE_ME_THERE_BUTTON": "Заведи ме там"
   }
 }

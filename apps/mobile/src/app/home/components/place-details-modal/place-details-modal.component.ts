@@ -1,5 +1,6 @@
 import { ChangeDetectionStrategy, Component, HostBinding, Input, ViewChild } from '@angular/core';
 import { IonContent, ModalController } from '@ionic/angular';
+import { ToastService } from '../../../shared/services/toast.service';
 import { CityPlace } from '../../models/city-place.model';
 import { LocationService } from '../../services/location.service';
 
@@ -21,7 +22,7 @@ export class PlaceDetailsModalComponent {
 
   addNoTransformClass = false;
 
-  constructor(public modalController: ModalController, private locationService: LocationService) {}
+  constructor(public modalController: ModalController, private locationService: LocationService, private toastService: ToastService) {}
 
   async onScroll(): Promise<void> {
     const scrollElement = await this.ionContent.getScrollElement();
@@ -29,10 +30,16 @@ export class PlaceDetailsModalComponent {
   }
 
   async navigate(): Promise<void> {
+    if (!(this.cityPlace.latitude && this.cityPlace.longitude)) {
+      this.toastService.show('Location is not available for this place', 3000);
+
+      return;
+    }
+
     const isLocationEnabled = await this.locationService.checkPermissions();
 
     if (isLocationEnabled) {
-      window.open('https://www.google.com/maps/dir/?api=1&destination=Pirot,Serbia&travelMode=driving');
+      window.open(`https://www.google.com/maps/dir/?api=1&destination=${this.cityPlace.latitude + ',' + this.cityPlace.longitude}&travelMode=driving`);
     }
   }
 }

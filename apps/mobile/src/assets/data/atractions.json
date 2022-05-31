@@ -7,8 +7,8 @@
     "contactPhone": "",
     "email": "",
     "location": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "43.1771036717911",
+    "longitude": "22.943777168452943",
     "image": "/assets/images/attractions/Vodopad Skok.JPG"
   },
   {
@@ -19,8 +19,8 @@
     "contactPhone": "",
     "email": "",
     "location": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "43.09869651711945",
+    "longitude": "22.861714283320605",
     "image": "/assets/images/attractions/Vodopad Ripalo.jpg"
   },
   {
@@ -42,8 +42,8 @@
     "owner": "",
     "contactPhone": "",
     "email": "",
-    "location": "",
-    "latitude": "",
+    "location": "43.03289343111674",
+    "latitude": "22.78758646313194",
     "longitude": "",
     "image": "/assets/images/attractions/Krnisor.JPG"
   },
@@ -54,8 +54,8 @@
     "owner": "",
     "contactPhone": "",
     "email": "",
-    "location": "",
-    "latitude": "",
+    "location": "43.071372349595315",
+    "latitude": "22.842186824541514",
     "longitude": "",
     "image": "/assets/images/attractions/Smilovska jezera.JPG"
   },
@@ -66,8 +66,8 @@
     "owner": "",
     "contactPhone": "",
     "email": "",
-    "location": "",
-    "latitude": "",
+    "location": "43.007259973885134",
+    "latitude": "22.784314787611553",
     "longitude": "",
     "image": "/assets/images/attractions/Manastirce.JPG"
   }

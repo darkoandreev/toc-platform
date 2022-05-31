@@ -1,6 +1,8 @@
 [
   {
     "title": "SRP Jerma",
+    "latitude": "42.959075316446615",
+    "longitude": "22.61564989231314",
     "description": "Specijalni rezervat prirode „Jerma“ Ι kategorija zaštite - zaštićeno područje međunarodnog, nacionalnog, odnosno izuzetnog značaja. Zahvata opštine Dimitrovgrad, Babušnicu i Pirot. U delu SRP jerma najzanimljiviji je Kanjon reke Jerme i Pogaovski manastir. Kanjon reke Jerme nastao je usecanjem vodenog toka kroz Greben i Vlašku planinu. Nalazi se na putnom pravcu koji preko Sukova i Zvonca vodido Babušnice. Kanjon je sve do 1927. bio neprolazan, sve dok te godine nije probijena trasa železnice za potrebe rudnika kamenog uglja Rakita. Rudnik je zatvoren šezdesetih godina 20. veka a umesto pruge izgrađen je put koji je omogućio pristup divljim lepotama reke Jerme, kao i pristup Poganovskom manastiru koji se nalazi na početku kanjona.",
     "image": "/assets/images/protected_natural_assets/SRP Jerma.JPG"
   },
@@ -11,6 +13,8 @@
   },
   {
     "title": "Spomenik prirode Petrlaška pećina",
+    "latitude": "43.07894245153376",
+    "longitude": "22.7902158627645",
     "description": "Petrlaška pećina je u stvari sistem pećina na južnom obodu kraškog Odorovačkog polja, u rejonu Zabrđa. Udaljena je od grada oko 12 km severno, put je 10 km asfaltni i 2 km zemljani. Pećina je sistem od 5 pećina sa bogatim nakitom, međutim nije dovoljno istražena i ne zna se njena tačna dužina. Pod zaštitom Zavoda za zaštitu prirode Srbije i još uvek nije otvorena za posetioce.",
     "image": "/assets/images/protected_natural_assets/Petrlaska pecina.jpg"
   }
